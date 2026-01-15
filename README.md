@@ -1,4 +1,4 @@
-<p align="left">## 👋 Hola, soy Luis Alberto — Desarrollador Web Junior<br><br>Desarrollador backend con experiencia en sistemas internos, integraciones y código legacy.<br>He trabajado en desarrollo e infraestructura, enfocándome en backend, despliegue de servicios y automatización.<br><br>Actualmente comparto mis conocimientos como profesor de informática, fortaleciendo mis habilidades de comunicación y documentación mientras continúo creciendo como desarrollador.<br><br>## 🛠️ Experiencia<br><br>**Backend e Integraciones**<br>- Webhooks y APIs con Node.js para automatización de CRMs (Kommo)<br>- Mantenimiento y evolución de aplicaciones MVC en PHP<br><br>**Infraestructura e IoT**<br>- Despliegue de servicios con Docker<br>- Gestión de ecosistemas inteligentes con Home Assistant<br><br>**IA**<br>- Implementación de modelos de IA local para procesamiento de imágenes<br><br>**Frontend**<br>- HTML, JavaScript y aprendizaje activo de React</p>
+<p align="left">## 👋 Hola, soy Luis Alberto — Desarrollador Web Junior<br>function aboutMe() {<br>  return {<br>    role: "Backend Developer (Junior)",<br>    stack: {<br>      backend: ["PHP (MVC)", "Node.js", "APIs", "Webhooks"],<br>      frontend: ["HTML", "CSS", "Bootstrap"],<br>      systems: ["Linux", "Servers", "Docker", "Home Assistant"],<br>      integrations: ["CRM (Kommo)"],<br>      ai: ["Image processing", "AI model integration (API)"]<br>    },<br>    currentlyLearning: ["React", "Java"],<br>  };<br>}</p>
 
 ###
 
@@ -70,5 +70,51 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Montalvo9/Montalvo9/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
